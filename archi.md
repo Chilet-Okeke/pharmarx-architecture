@@ -9,4 +9,7 @@
 
 ## Notes
 - This diagram shows the high-level components and how they interact.
-- Editable version: [pharmarx.excalidraw](./Pharmarx-hla.excalidraw)
+
+
+### Title test
+![New title](./Pharmarx-hla.excalidraw)
